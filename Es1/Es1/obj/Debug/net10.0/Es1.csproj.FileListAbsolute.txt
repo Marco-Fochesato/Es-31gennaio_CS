@@ -1,0 +1,14 @@
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/bin/Debug/net10.0/Es1
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/bin/Debug/net10.0/Es1.deps.json
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/bin/Debug/net10.0/Es1.runtimeconfig.json
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/bin/Debug/net10.0/Es1.dll
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/bin/Debug/net10.0/Es1.pdb
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.AssemblyInfoInputs.cache
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.AssemblyInfo.cs
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.csproj.CoreCompileInputs.cache
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.dll
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/refint/Es1.dll
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.pdb
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/Es1.genruntimeconfig.cache
+/Users/marco/Scuola/Informatica3/C#/Es-31gennaio_C-/Es1/Es1/obj/Debug/net10.0/ref/Es1.dll
